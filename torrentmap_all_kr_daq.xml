@@ -1,6 +1,6 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>torrentmap - kr_daq</title>
+		<title>torrentmap_all - kr_daq</title>
 		<link></link>
 		<description></description>
 		<item>
@@ -32,6 +32,12 @@
 			<link>magnet:?xt=urn:btih:E81D8F6E1F5C63A9BA113003EDBA0A86A07D66C0</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>그것이 알고 싶다.E1146.181124.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>그것이 알고 싶다.E1146.181124.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:9705C6910415E522CBC613A03820DABE7D50C71E</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>그것이 알고 싶다.E1146.181124.1080p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>엄경철의 심야토론.E23.181124.720p-NEXT</title>
@@ -86,12 +92,6 @@
 			<link>magnet:?xt=urn:btih:7A0EAB0DBBC4DEA7023330998613D27664B32879</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>SBS 뉴스토리.E208.181124.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>비긴어게임.E04.181124.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:DA9161B6C57355F5BAEA22E4920F41DC75F062E8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>비긴어게임.E04.181124.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>

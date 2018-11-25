@@ -1,6 +1,6 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>torrentmap - kr_ent</title>
+		<title>torrentmap_all - kr_ent</title>
 		<link></link>
 		<description></description>
 		<item>
@@ -22,6 +22,12 @@
 			<showrss:showname>속풀이쇼 동치미.E315.181124.720p-NEXT</showrss:showname>
 		</item>
 		<item>
+			<title>짠내투어.E51.181124.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:3991292982D4D65A44F0B97F7D6B905E3B0E78D1</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>짠내투어.E51.181124.1080p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>짠내투어.E51.181124.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:BFE2BCE92EC0117833511B15205EB2AF0A1C682D</link>
 			<showrss:showid></showrss:showid>
@@ -38,6 +44,12 @@
 			<link>magnet:?xt=urn:btih:9EA5F7F5CDE5E40C4F7BAE19B1CE4E38E62DE7D0</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>보컬플레이.E03.181124.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>아는 형님.E155.181124.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:0CBEC3630A2A82B34717B4C93F087460CB0BC60F</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>아는 형님.E155.181124.1080p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>아는 형님.E155.181124.720p-NEXT</title>
@@ -64,6 +76,12 @@
 			<showrss:showname>별거가 별거냐 시즌3.E11.181124.720p-NEXT</showrss:showname>
 		</item>
 		<item>
+			<title>놀라운 토요일.E34.181124.1080p-NEXT</title>
+			<link>magnet:?xt=urn:btih:ED74D08A4650A36A4124C762AC9C2089DF1C73A0</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>놀라운 토요일.E34.181124.1080p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>놀라운 토요일.E34.181124.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:C642FE9525A36F195962F68D7BF95068AB9C92C8</link>
 			<showrss:showid></showrss:showid>
@@ -74,24 +92,6 @@
 			<link>magnet:?xt=urn:btih:4971B79BB6F54E6DFDA5CA54193FCA0E6C7619B5</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>MBC PICK X 언더나인틴.E04.181124.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>최신유행프로그램.E08.181124.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:B923B12189176291EF897E70B485A504B8852DED</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>최신유행프로그램.E08.181124.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>불후의 명곡 전설을 노래하다.E379.181124.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:ABAD7A9272F4374BE0AC3A5CF4D0A29944908C47</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>불후의 명곡 전설을 노래하다.E379.181124.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>더 팬 .E01.181124.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:478425E27CB69EE64783DD2195EC7089E51D8F7D</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>더 팬 .E01.181124.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
