@@ -81,17 +81,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>커피프렌즈.E06.190208.1080p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>돈스파이크의 먹다보면.E02.190208.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:A87AE76E09509725194B71BDA4B6F42C72D1FD39</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>돈스파이크의 먹다보면.E02.190208.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>커피프렌즈.E06.190208.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:2FE6882D1068649F59473F8CAA9797155E11BFFE</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>커피프렌즈.E06.190208.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
