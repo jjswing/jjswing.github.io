@@ -106,12 +106,6 @@
 			<showrss:showname>빙의.E01.190306.HDTV.H264.720p NEXT.mp4</showrss:showname>
 		</item>
 		<item>
-			<title>빙의.E01.190306.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:4d427cc8810f36a33d872b696e948ec0feb48ba7</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>빙의.E01.190306.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>봄이 오나 봄 21 22회 합본.E11.190306.720p NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:9286ab531670dbee9f2d96003eb477669112470d</link>
 			<showrss:showid></showrss:showid>
@@ -182,6 +176,12 @@
 			<link>magnet:?xt=urn:btih:a1a0114de1a49d448ed5ffabb75fc1c550775c65</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>눈이 부시게.E08.190305.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>사이코메트리 그녀석 첫 접촉.E01.190305.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:7877daf80618ce94cfb270426c07efd8225dfb06</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>사이코메트리 그녀석 첫 접촉.E01.190305.720p NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>

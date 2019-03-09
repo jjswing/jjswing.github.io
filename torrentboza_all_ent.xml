@@ -1,6 +1,6 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>torrentboza - ent</title>
+		<title>torrentboza_all - ent</title>
 		<link></link>
 		<description></description>
 		<item>
@@ -148,6 +148,12 @@
 			<showrss:showname>공복자들.E14.190308.720p NEXT</showrss:showname>
 		</item>
 		<item>
+			<title>꿀잼 퀴즈방.E24.190308.450p NEXT.mp4</title>
+			<link>magnet:?xt=urn:btih:d0b3c471338703901c1ba47aab275300e06dd5aa</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>꿀잼 퀴즈방.E24.190308.450p NEXT.mp4</showrss:showname>
+		</item>
+		<item>
 			<title>너의 목소리가 보여 시즌6.E08.190308.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:82632768cc509c416a1d12dc324416db13fa50a4</link>
 			<showrss:showid></showrss:showid>
@@ -170,12 +176,6 @@
 			<link>magnet:?xt=urn:btih:5f29de464fa9e02e94fbd600910d3efea6cd708c</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>방구석 1열.E45.190308.720p NEXT.mp4</showrss:showname>
-		</item>
-		<item>
-			<title>뮤직뱅크.E970.190308.720p NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:61fb8595060e1b67e0bd262bb5d55a36874e1ae8</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>뮤직뱅크.E970.190308.720p NEXT.mp4</showrss:showname>
 		</item>
 	</channel>
 </rss>
