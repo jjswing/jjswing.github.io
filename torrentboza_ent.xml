@@ -82,12 +82,6 @@
 			<showrss:showname>[방영중] 아이돌룸.E47.190423.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>[방영중] 강남스캔들.E105.190423.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:33c0919e292d77d52fb4345a050507da24601ffd</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>[방영중] 강남스캔들.E105.190423.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>[방영중] 동상이몽2 너는 내운명.E91.190422.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:a38456f7c3cfa10e0fc2310c562fd29b6677c85a</link>
 			<showrss:showid></showrss:showid>
@@ -182,6 +176,12 @@
 			<link>magnet:?xt=urn:btih:57f009e6ef90f449d988f6a746584b63205de802</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>[방영중] 이제 만나러 갑니다.E383.190421.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>[방영중] 대탈출2.E06.190421.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:63378f0d0650fb65c4ad53b5291ade218ec92c8d</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>[방영중] 대탈출2.E06.190421.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
